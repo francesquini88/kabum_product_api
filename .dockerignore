@@ -1,0 +1,7 @@
+# Ignore all files and folders
+*
+
+# Except the following ones
+!products_api
+!requirements.txt
+!VERSION.txt
